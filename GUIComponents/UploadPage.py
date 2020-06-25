@@ -2,9 +2,8 @@ from PyQt5.QtWidgets import *
 
 from TableComponents import DataTable, Variable
 
-import PyCute
-import Functions
-import Constants
+from CustonWrappers import PyCute
+from General import Constants, Functions
 
 
 class UploadPage(QWidget):

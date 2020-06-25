@@ -1,10 +1,9 @@
 import numpy
 import statsmodels.api as sm
-from sklearn.linear_model import LinearRegression
 
 from TableComponents import Variable
 
-import Functions
+from General import Functions
 
 
 class DataTable:

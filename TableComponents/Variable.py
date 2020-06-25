@@ -1,4 +1,4 @@
-import Functions
+from General import Functions
 
 
 class Variable:

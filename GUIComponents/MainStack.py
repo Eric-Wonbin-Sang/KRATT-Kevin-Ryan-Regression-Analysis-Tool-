@@ -1,8 +1,7 @@
 from PyQt5.QtWidgets import *
 from GUIComponents import UploadPage, StatsPage
 
-import PyCute
-import Functions
+from CustonWrappers import PyCute
 
 
 class MainStack(QStackedWidget):
